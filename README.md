@@ -1,6 +1,6 @@
 **Profiles 🌐**
 
-<a href="https://instagram.com/stijn_schuurman/">
+<a href="https://instagram.com/stijn.schuurman/">
   <img align="left" alt="Luducrous's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/stijn.schuurman.73/">
