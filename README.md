@@ -9,6 +9,11 @@
 <a href="https://github.com/Luducrous">
   <img align="left" alt="Luducrous's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://stackoverflow.com/users/14454954/luducrous">
+  <img align="left" alt="Luducrous's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+
+
 
 
 </br>
