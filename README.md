@@ -1,6 +1,5 @@
 <h2 style="font-weight: bold" align="center">👋 Hello! I'm Stijn.</h2>
 
-#
 ## 🧑🏼‍💻&nbsp; **Skills**
 ### Languages
 <p align="left">
