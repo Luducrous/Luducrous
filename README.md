@@ -48,7 +48,7 @@
 
 #
 
-## 🧑🏼‍💻&nbsp; **Education**
+## 🎓&nbsp; **Education**
 
 
-## I am Stijn, known as Luducrous!
+### I am Stijn, known as Luducrous!
