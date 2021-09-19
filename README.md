@@ -49,5 +49,6 @@
 #
 
 ## 🙋🏼&nbsp; **About Me**
-+ Studying Business Information Technology at the University of Twente
++ 📚 Studying _Business Information Technology_ at the University of Twente (2nd year)
++ :heart: Mountain-biking, snowboarding
 
