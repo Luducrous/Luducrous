@@ -48,7 +48,6 @@
 
 #
 
-## 🎓&nbsp; **Education**
+## 🙋🏼&nbsp; **About Me**
++ Studying Business Information Technology at the University of Twente
 
-
-### I am Stijn, known as Luducrous!
