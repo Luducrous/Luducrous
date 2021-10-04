@@ -1,5 +1,12 @@
 <h2 style="font-weight: bold" align="center">👋 Hello! I'm Stijn.</h2>
 
+
+## 🙋🏼&nbsp; **About Me**
++ 📚 Studying _Business Information Technology_ at the University of Twente (2nd year)
++ :heart: Mountain-biking, snowboarding
+
+#
+
 ## 🧑🏼‍💻&nbsp; **Skills**
 ### Languages
 <p align="left">
@@ -48,7 +55,7 @@
 
 #
 
-## 🙋🏼&nbsp; **About Me**
-+ 📚 Studying _Business Information Technology_ at the University of Twente (2nd year)
-+ :heart: Mountain-biking, snowboarding
+![Stijn Schuurman's Discord Stats](https://github-readme-stats.vercel.app/api?username=Luducrous&show_icons=true&theme=vue-dark)
 
+
+#
