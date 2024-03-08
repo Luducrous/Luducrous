@@ -2,9 +2,10 @@
 
 
 ## 🙋🏼&nbsp; **About Me**
-+ 📚 Studying _Business Information Technology_ at the University of Twente (3rd year)
++ 🎓 Business Information Technology_ at the University of Twente
 + :heart: Mountain-biking, snowboarding
-+ Currently studying Cybersecurity & Cybercrime
++ CyberSecurity Master University of Twente
++ Making the best apps with [Techurve](https://techurve.nl)
 
 #
 
